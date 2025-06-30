@@ -3,6 +3,7 @@
 ### Hi there, I'm Attah Anoh!
 
 I love using tools like R and SQL to solve real-world problems.
+I love to use Tableau and Excel for Visualization
 
 ---
 
