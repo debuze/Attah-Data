@@ -25,7 +25,7 @@ I love to use Tableau and Excel for Visualization
 
 This is where I showcase my work. My goal is to turn data into actionable insights.
 
-* **[Bellabeat Case Study: Analyzing Smart Device Data to Inform Marketing Strategy](https://github.com/your-username/bellabeat-case-study)**
+* **[Bellabeat Case Study: Analyzing Smart Device Data to Inform Marketing Strategy][(https://github.com/your-username/bellabeat-case-study)](https://github.com/debuze/bellabeat-case-study)**
     * *A deep dive into Fitbit user data to understand consumer behavior and provide strategic recommendations for a wellness tech company. This was my capstone project for the Google Data Analytics Certificate.*
 
 ---
